@@ -20,4 +20,5 @@ I'm a postgraduate student in the University of Chinese Academy of Sciences.
 - 🚩 CTF
 - 💬 Learning Binary Security
 - 📖 Beginner
+- A member of NeSE(Never Stop Exploiting) and 0th3rs Security Team
 - ...
